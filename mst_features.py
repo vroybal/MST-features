@@ -112,9 +112,7 @@ def getMSTFeats(mst):
     keys: 'degree', 
            'edge_length', 
            'branch_length', 
-           'branch_shape', 
-           'l_index',
-           'b_index'
+           'branch_shape'
 
     stats : 'nobs',
             'mean',
